@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Athrav Bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "NotKr8shu.aternos.me",
